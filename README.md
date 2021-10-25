@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/abdulaziz1999)
 **abdulaziz1999/abdulaziz1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
