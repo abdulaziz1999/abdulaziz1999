@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there I'am Abdul Aziz 👋
 
 **abdulaziz1999/abdulaziz1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="450" height="300" style="border-radius:10px;" /> -->
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+### Social Media
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-aziz-9a64711a7)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/aziz.revolusion)
