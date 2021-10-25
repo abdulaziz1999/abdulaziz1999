@@ -31,6 +31,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulaziz1999&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz1999&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=algolia"/>
 </p>
+[![Abdul Aziz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdulaziz1999)](https://github.com/abdulaziz1999/github-readme-stats)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulaziz1999&repo=React-Native-Kontak)](https://github.com/abdulaziz1999/github-readme-stats) -->
 
