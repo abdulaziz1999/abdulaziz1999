@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 [![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulaziz1999&count_private=true&show_icons=true&theme=algolia)](https://github.com/abdulaziz1999/github-readme-stats)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulaziz1999&repo=React-Native-Kontak)](https://github.com/abdulaziz1999/github-readme-stats) -->
