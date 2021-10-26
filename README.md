@@ -17,7 +17,7 @@
 - ⚡ Fun fact: ...
 
 ### Social Media
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-aziz-9a64711a7)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/aziz.revolusion)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AbdulAz65072470)
