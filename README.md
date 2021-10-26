@@ -6,12 +6,12 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Application Web and Application Mobile(React)
+- 🌱 I’m currently learning Reactjs , Svelte dan Rest API
+- 👯 I’m looking to collaborate on Start up
+- 🤔 I’m looking for help with Searching in Google (Stack Over Flow) 
+- 💬 Ask me about Programmer Strong
+- 📫 How to reach me: Whatsapp 👇 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -21,6 +21,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/aziz.revolusion)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AbdulAz65072470)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/azizakbarpermana/)
+[![Instagram Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://instagram.com/azizakbarpermana/)
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app) -->
 <!-- [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/) -->
 <!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym) -->
