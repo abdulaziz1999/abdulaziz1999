@@ -24,7 +24,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/azizakbarpermana/)
 [![Instagram Badge](https://img.shields.io/badge/-Whatsapp-e4405f?style=flat-square&logo=Whatsapp&logoColor=white&color=success)](https://wa.me/6289669001989)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/abdulaziz040799)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://site-aziz.netlify.app)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://abdulaziz1999.github.io)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://aziz212.medium.com)
 
 
